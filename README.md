@@ -1,4 +1,4 @@
-# **odin-Recipe**
+# **Odin-Recipe**
 This is my first ever project with what i learn from The Odin Project.
 This is a simple website that showcase a recipes using basic HTML skills.
 
