@@ -1,0 +1,39 @@
+/* Style Css */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+.title {
+background-color: red;
+color: white;
+width: auto;
+height: 50px;
+text-align: center;
+padding-top: 10px;
+}
+
+ ul {
+    margin-top: 20px;
+    list-style: none;
+}
+.home-page li {
+    background-color: aqua;
+margin-bottom: 4px;
+padding: -.2em 0.5em;
+border: 1px solid;
+width: fit-content;
+font-size: 20px;
+
+}
+.home {
+background-color: black;
+font-size: 32px;
+color: white;
+padding: 9px 13px;
+display: inline-block;
+}
